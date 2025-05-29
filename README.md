@@ -48,6 +48,7 @@ git clone https://github.com/vampiresquad/Vampire-Call-Bomber-Advanced.git
 cd vampire-bomber
 
 # Run the installer
+chmod +x install.sh
 bash install.sh
 
 # Start the tool
