@@ -42,7 +42,7 @@ It uses real API integration with interactive CLI, strong password protection, a
 
 ```bash
 # Clone the tool
-git clone https://github.com/vampiresquad/vampire-bomber
+git clone https://github.com/vampiresquad/Vampire-Call-Bomber-Advanced.git
 
 # Navigate into the folder
 cd vampire-bomber
